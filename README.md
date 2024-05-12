@@ -11,5 +11,12 @@
   <img title="a title" alt="Masked image of laptop" src="https://github.com/mukulmehar/Pose-editing/blob/main/generated_images_task_1/flower_vase_generated.png" width=400 height=400>
 </p>
 
+## Task 2
+
+### Results of Image Sculpting
+
+https://github.com/mukulmehar/Pose-editing/assets/54510198/90b5897e-873a-42a8-b553-1ac6d722f472
+
+
  ## Citation
 [1]: <a id="SAM" href="https://github.com/luca-medeiros/lang-segment-anything">lang-segment-anything</a>
