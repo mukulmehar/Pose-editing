@@ -6,9 +6,9 @@
   Given a text prompt and an image, Grounding-DINO can return the most relevant bounding boxes for the given prompt. And, given a bounding box and an image, SAM can return the segmented mask inside the bounding box.
 </p>
 <p align="middle">
-  <img title="a title" alt="Masked image of laptop" src="https://github.com/mukulmehar/Pose-editing/blob/main/generated_images_task_1/laptop_generated.png" width=400 height=400>
+  <img title="a title" alt="Masked image of laptop" src="https://github.com/mukulmehar/Pose-editing/blob/main/generated_images_task_1/laptop_generated.png" width=320 height=320>
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img title="a title" alt="Masked image of laptop" src="https://github.com/mukulmehar/Pose-editing/blob/main/generated_images_task_1/flower_vase_generated.png" width=400 height=400>
+  <img title="a title" alt="Masked image of laptop" src="https://github.com/mukulmehar/Pose-editing/blob/main/generated_images_task_1/flower_vase_generated.png" width=320 height=320>
 </p>
 
 ## Task 2
@@ -19,9 +19,9 @@
 </p>
 
 <p align="middle">
-  <img src="https://github.com/mukulmehar/Pose-editing/assets/54510198/c7befee9-edb7-4eb2-b0ee-16438ca9d86a" width=400 height=400>
+  <img src="https://github.com/mukulmehar/Pose-editing/assets/54510198/c7befee9-edb7-4eb2-b0ee-16438ca9d86a" width=320 height=320>
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/mukulmehar/Pose-editing/assets/54510198/b6457f61-df6f-47aa-bb95-1002fda86732" width=400 height=400>
+  <img src="https://github.com/mukulmehar/Pose-editing/assets/54510198/b6457f61-df6f-47aa-bb95-1002fda86732" width=320 height=320>
 </p>
 
 https://github.com/mukulmehar/Pose-editing/assets/54510198/90b5897e-873a-42a8-b553-1ac6d722f472
