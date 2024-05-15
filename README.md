@@ -26,7 +26,8 @@
 
 https://github.com/mukulmehar/Pose-editing/assets/54510198/90b5897e-873a-42a8-b553-1ac6d722f472
 
- ## Citation
+## References
+
 [1]: <a id="SAM" href="https://github.com/luca-medeiros/lang-segment-anything">lang-segment-anything</a>
 
 [2]: <a id="Sculpt" href="https://github.com/vision-x-nyu/image-sculpting/tree/main">image-sculpting</a>
